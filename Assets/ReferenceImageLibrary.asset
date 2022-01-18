@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4716159744841549925
+  m_GuidHigh: 17373838860406819223
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5361512550688703307
+      m_GuidHigh: 7446056198647373218
+    m_SerializedTextureGuid:
+      m_GuidLow: 5081200302490159714
+      m_GuidHigh: 1017221028751806858
+    m_Size: {x: 0.3, y: 0.4}
+    m_SpecifySize: 1
+    m_Name: node
+    m_Texture: {fileID: 2800000, guid: f6888a620cc046848a11cfdc22e51d0e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5295167406020874982
+      m_GuidHigh: 9717120642071615389
+    m_SerializedTextureGuid:
+      m_GuidLow: 13088740449636256404
+      m_GuidHigh: 7292658333233820376
+    m_Size: {x: 0.4, y: 0.53333336}
+    m_SpecifySize: 1
+    m_Name: kaist
+    m_Texture: {fileID: 2800000, guid: 81db0a948c17b5a4d8b2b1ac1dba3465, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4805545950554139636
+      m_GuidHigh: 11644168237668579974
+    m_SerializedTextureGuid:
+      m_GuidLow: 4676107668453729880
+      m_GuidHigh: 4152822519995292794
+    m_Size: {x: 0.4, y: 0.55381626}
+    m_SpecifySize: 1
+    m_Name: lockh
+    m_Texture: {fileID: 2800000, guid: 3daa2658df2640e47adc8f4f14caa139, type: 3}
