@@ -33,7 +33,7 @@
 
 
 ## Game_Play
-
+[escape_play](https://youtu.be/9qGnbj1KsQk)
 
 
 ## 개발환경
